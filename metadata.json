@@ -1,0 +1,5 @@
+{
+  "name": "AFACTURA - Faturação AGT",
+  "description": "Sistema de faturação simplificado para PMEs em Angola, preparado para requisitos da AGT (NIF, IVA, Isenções) com funcionamento offline-first.",
+  "requestFramePermissions": []
+}
